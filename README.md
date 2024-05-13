@@ -2,7 +2,7 @@
   <img src="nya.jpg" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm Klinola!</h1>
+<h1 align="center">Hi, I'm Klinola!✨</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
