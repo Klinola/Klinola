@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nya.jpg" alt="Banner"></a>
+  <img src="nya.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Klinola!✨</h1>
@@ -7,6 +7,12 @@
 
 <p align="center">
   <a href="https://github.com/Klinola"><img src="https://github-readme-stats.vercel.app/api?username=Klinola&hide_border=true&show_icons=true" alt="Klinola's github stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Klinola" alt="Klinola's trophies">
+  </a>
 </p>
 
 <p align="center">
@@ -28,18 +34,3 @@
 <p align="center">
   <a href="https://twitter.com/nyahunters">Twitter</a>
 </p>
-
-<!--
-**Klinola/Klinola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
