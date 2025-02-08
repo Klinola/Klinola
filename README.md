@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/nyahunters">Twitter</a>
+  <a href="https://twitter.com/klinolaaloc">Twitter</a>
 </p>
