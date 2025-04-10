@@ -24,13 +24,5 @@
 </p>
 
 <p align="center">
-  🚀 Recent project: Developed a mining program for Ethpi, achieving an unprecedented 12.90 MH/s on an Nvidia 4090 GPU. This involved deep dives into C++, CUDA, and Ethereum's transaction mechanisms—all self-taught!
-</p>
-
-<p align="center">
   🌟 Excited to share knowledge, collaborate on projects, and build connections. Let's chat about tech, anime, or your latest digital adventure!
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/klinolaaloc">Twitter</a>
 </p>
