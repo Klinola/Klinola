@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://github.com/Klinola"><img src="https://github-readme-stats.vercel.app/api?username=Klinola&hide_border=true&show_icons=true" alt="Klinola's github stats"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/Klinola"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&hide_border=true&show_icons=true" alt="Klinola's Top Used Languages"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
