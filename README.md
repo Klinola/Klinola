@@ -13,22 +13,11 @@
 `> present day. present time.`
 `> cybersec / web3 / GPU / AI`
 
-<table border="0">
-<tr>
-<td align="center">
-<sub><code>COMMITS / YR</code></sub><br/>
-<img src="https://img.shields.io/github/contributions/Klinola?style=flat-square&color=ff2e93&labelColor=0a0014" alt="commits"/>
-</td>
-<td align="center">
-<sub><code>STREAK</code></sub><br/>
-<img src="https://streak-stats.demolab.com/?user=Klinola&theme=transparent&hide_border=true&card_width=160&type=svg&date_format=n%2Fj%5B%2FY%5D" height="20" alt="streak"/>
-</td>
-<td align="center">
-<sub><code>FAV LANG</code></sub><br/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="fav"/>
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/MODE-WIRED-ff2e93?style=for-the-badge&logo=signal&logoColor=00e5ff&labelColor=0a0014" alt="mode"/>
+<img src="https://img.shields.io/badge/ROLE-NETRUNNER-ff2e93?style=for-the-badge&logo=ghostery&logoColor=00e5ff&labelColor=0a0014" alt="role"/>
+<img src="https://img.shields.io/badge/FAV-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0a0014" alt="fav"/>
+</p>
 
 </td>
 </tr>
