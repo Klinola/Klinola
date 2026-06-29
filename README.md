@@ -41,7 +41,7 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Klinola&theme=radical" alt="profile-details"/>
+<img src="https://github-profile-summary-cards-sigma-rouge.vercel.app/api/cards/profile-details?username=Klinola&theme=radical" alt="profile-details"/>
 </td>
 <td width="220" align="center">
 <img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs,reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=200&include_all_commits=true&count_private=true" alt="rank"/>
