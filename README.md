@@ -23,22 +23,15 @@
 </td>
 <td width="320" valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=8&hide=html,css,shell&theme=radical&card_width=320" alt="top-langs"/>
 </td>
 </tr>
 </table>
 
-<table border="0">
-<tr>
-<td>
-<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=8&hide=html,css&theme=radical" alt="top-langs"/>
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" width="100%" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=365&height=180&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY" width="100%" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=365&height=300&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY" width="100%" alt="activity"/>
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d-contrib"/>
 
