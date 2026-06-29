@@ -30,7 +30,7 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" alt="stats"/>
+<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage" alt="stats"/>
 </td>
 <td>
 <img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
