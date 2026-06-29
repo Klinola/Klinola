@@ -43,21 +43,10 @@
 <table border="0">
 <tr>
 <td>
-<img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="productive-time"/>
+<img src="profile-summary-card-output/2077/4-productive-time.svg" alt="productive-time"/>
 </td>
 <td>
-<img src="profile-3d.svg" alt="3d-contrib"/>
-</td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td>
-<img src="metrics.plugin.anilist.svg" alt="anilist"/>
-</td>
-<td>
-<img src="metrics.plugin.music.svg" alt="music"/>
+<img src="profile-3d-contrib/profile-customize.svg" alt="3d-contrib"/>
 </td>
 </tr>
 </table>
