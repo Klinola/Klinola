@@ -22,8 +22,6 @@
 
 </td>
 <td width="320" valign="top">
-<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="stats"/>
-<br/>
 <img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=10&count_private=true&hide=html,css&theme=radical&card_width=320" alt="top-langs"/>
 </td>
 </tr>
@@ -32,10 +30,10 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
+<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="stats"/>
 </td>
 <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=30&height=200&hide_title=false&custom_title=LAST%2030%20DAYS" alt="30d-activity"/>
+<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
 </td>
 </tr>
 </table>
