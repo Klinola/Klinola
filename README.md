@@ -29,7 +29,16 @@
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" width="100%" alt="streak"/>
+<table border="0">
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
+</td>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=30&height=200&hide_title=false&custom_title=LAST%2030%20DAYS" alt="30d-activity"/>
+</td>
+</tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=365&height=300&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY" width="100%" alt="activity"/>
 
