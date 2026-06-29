@@ -33,23 +33,14 @@
 <img src="https://streak-stats.demolab.com/?user=Klinola&background=0d1117&stroke=ff2e93&ring=ff2e93&fire=00e5ff&currStreakNum=ffd0ec&sideNums=ffd0ec&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=ffd0ec&border=ff2e93" alt="streak"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=8&hide=html,css&bg_color=0d1117&title_color=ff2e93&text_color=ffd0ec&border_color=ff2e93" alt="top-langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&layout=donut&langs_count=8&hide=html,css&bg_color=0d1117&title_color=ff2e93&text_color=ffd0ec&border_color=ff2e93" alt="top-langs-donut"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&area=true&color=ff2e93&line=ff2e93&point=00e5ff&bg_color=0d1117&hide_border=false&height=180&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY&title_color=ff2e93" width="100%" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&area=true&days=365&color=ff2e93&line=ff2e93&point=00e5ff&bg_color=0d1117&hide_border=false&height=180&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY&title_color=ff2e93" width="100%" alt="activity"/>
 
-<table border="0">
-<tr>
-<td>
-<img src="profile-summary-card-output/2077/4-productive-time.svg" alt="productive-time"/>
-</td>
-<td>
-<img src="profile-3d-contrib/profile-customize.svg" alt="3d-contrib"/>
-</td>
-</tr>
-</table>
+<img src="profile-3d-contrib/profile-customize.svg" width="100%" alt="3d-contrib"/>
 
 <img src="https://komarev.com/ghpvc/?username=Klinola&label=WIRED+CONNECTIONS&color=ff2e93&style=for-the-badge" alt="visitor counter"/>
 
