@@ -12,25 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/3d-contrib-settings.json
-      - name: Find generated SVG
-        run: |
-          echo "=== repo root ==="
-          ls -la *.svg 2>/dev/null || echo "no svg at root"
-          echo "=== profile-3d-contrib dir ==="
-          ls -la profile-3d-contrib/ 2>/dev/null || echo "no profile-3d-contrib dir"
-          echo "=== any svg anywhere ==="
-          find . -name "*.svg" -not -path "./.git/*" -not -name "lain-hud.svg"
-      - name: Commit + push
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add -A profile-3d-contrib/
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh 3D contribution graph"
+            git commit -m "chore: refresh 3D contribution"
             git push
           fi
