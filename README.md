@@ -38,7 +38,16 @@
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Klinola&theme=react-dark&days=365&height=300&custom_title=KLINOLA%20%2F%2F%20365D%20ACTIVITY" width="100%" alt="activity"/>
+<table border="0">
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Klinola&theme=radical" alt="profile-details"/>
+</td>
+<td width="220" align="center">
+<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs,reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=200&include_all_commits=true&count_private=true" alt="rank"/>
+</td>
+</tr>
+</table>
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d-contrib"/>
 
