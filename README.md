@@ -22,9 +22,9 @@
 
 </td>
 <td width="320" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="stats"/>
+<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="stats"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=8&hide=html,css,shell&theme=radical&card_width=320" alt="top-langs"/>
+<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=10&count_private=true&hide=html,css&theme=radical&card_width=320" alt="top-langs"/>
 </td>
 </tr>
 </table>
