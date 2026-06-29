@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "type": "radical-yellow",
+    "frames": 60,
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#ffd0ec",
+    "strongColor": "#ff2e93"
+  }
+}
