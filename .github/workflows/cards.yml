@@ -1,0 +1,54 @@
+name: Profile Cards
+on:
+  schedule:
+    - cron: "30 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # camo 只等约 4 秒，外链卡片冷启动会超时 → 全部生成本地 SVG
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+          EXCLUDE: ""
+
+      - uses: DenverCoder1/github-readme-streak-stats@v1.8.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=radical
+          path: cards/streak.svg
+
+      - name: Fetch github-readme-stats cards
+        run: |
+          base=https://github-readme-stats-five-neon-ziw2quphco.vercel.app
+          fetch() {
+            if curl -fsS --retry 3 --retry-delay 5 --max-time 60 -o "$1.tmp" "$2" && grep -q '<svg' "$1.tmp"; then
+              mv "$1.tmp" "$1"
+            else
+              echo "::warning::fetch failed, keeping previous $1"; rm -f "$1.tmp"
+            fi
+          }
+          mkdir -p cards
+          fetch cards/stats.svg "$base/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=default&hide=contribs&show=prs_merged,prs_merged_percentage"
+          fetch cards/top-langs.svg "$base/api/top-langs/?username=Klinola&layout=compact&langs_count=10&count_private=true&hide=html,css&theme=radical&card_width=320"
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A cards/ profile-summary-card-output/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile cards"
+            git pull --rebase
+            git push
+          fi
