@@ -22,7 +22,7 @@
 
 </td>
 <td width="320" valign="top">
-<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api/top-langs/?username=Klinola&layout=compact&langs_count=10&count_private=true&hide=html,css&theme=radical&card_width=320" alt="top-langs"/>
+<img src="cards/top-langs.svg" alt="top-langs"/>
 </td>
 </tr>
 </table>
@@ -30,15 +30,15 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats-five-neon-ziw2quphco.vercel.app/api?username=Klinola&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=default&hide=contribs&show=prs_merged,prs_merged_percentage" alt="stats"/>
+<img src="cards/stats.svg" alt="stats"/>
 </td>
 <td>
-<img src="https://streak-stats.demolab.com/?user=Klinola&theme=radical" alt="streak"/>
+<img src="cards/streak.svg" alt="streak"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards-sigma-rouge.vercel.app/api/cards/profile-details?username=Klinola&theme=radical" width="100%" alt="profile-details"/>
+<img src="profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="profile-details"/>
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d-contrib"/>
 
