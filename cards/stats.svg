@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Klinola's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 138, Total Commits  : 11094, Total PRs: 4303, Total PRs Merged: 4195, Merged PRs Percentage: 97.49, Total Issues: 4171</desc>
+        <desc id="descId">Total Stars Earned: 138, Total Commits  : 11094, Total PRs: 4303, Total PRs Merged: 4195, Merged PRs Percentage: 97.49, Total Issues: 4172</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
