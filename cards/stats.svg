@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Klinola's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 138, Total Commits  : 11094, Total PRs: 4303, Total PRs Merged: 4195, Merged PRs Percentage: 97.49, Total Issues: 4172</desc>
+        <desc id="descId">Total Stars Earned: 138, Total Commits  : 11109, Total PRs: 4319, Total PRs Merged: 4211, Merged PRs Percentage: 97.50, Total Issues: 4180</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.170596674084937;
+        stroke-dashoffset: 24.170398465350424;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >97.49 %</text>
+      >97.50 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
